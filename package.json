@@ -1,0 +1,12 @@
+{
+  "name": "thom-lab-exercicios-fundamentos-js-cod3r",
+  "version": "1.0.0",
+  "description": "Academia do Thompson:  Exercícios de Fundamentos de Javascript do Treinamento Web Moderno da Cod3r.",
+  "main": "exercicio-01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
